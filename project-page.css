@@ -1,0 +1,81 @@
+html{
+    padding: 0;
+    margin: 0;
+    background-color: #232324;
+    color: white;
+
+}
+body{
+    padding: 10px;
+}
+
+#title{
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    box-shadow: 5px -5px grey ;
+}
+#title h1{
+    padding: 5px 60px;
+
+    margin: auto;
+    color: red;
+    font-size: ;
+    font-family: 'Eczar', serif;
+    border: 1px solid red;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+}
+#title h3{
+    margin-top: -25px;
+    color:#b50000;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    
+}
+hr{
+    width: 50%;
+}
+#image-div{
+    text-align: center;   
+}
+#image{
+    padding-top: 20px;
+ width: 100%;
+height: auto;
+max-width: 625px;
+margin: auto;
+}
+#image-caption{
+    margin-top: 10px 0px 10px 0px;
+    font-size: 15px;
+    text-align: center;
+}
+#tribute-info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:10px;
+}
+
+.stan{
+    text-align: center;
+}
+.stan img{
+    height:200px;
+    width: 350px;
+    padding-left: 20px ;
+
+}
+a{
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+}
+a:hover{
+    color:white;
+}
+button{
+    border-radius: 12px;
+    background:black;
+}
